@@ -1,0 +1,7 @@
+*.exe
+*.log
+*.swp
+*.test
+.DS_Store
+.vagrant/
+bin/
